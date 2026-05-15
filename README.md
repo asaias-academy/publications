@@ -29,10 +29,9 @@ Host approved flagship publications for the academy's public analytical surface.
 
 Nothing public is final without human review and human approval.
 
-## Baseline Cycle
-
-The first ASAIAS flagship publication baseline is:
+## Published Flagship Publications
 
 - [Five steps toward an AI-native academy](./2026-05-12-five-steps-toward-an-ai-native-academy.md)
+- [Seven rules for governing agentic workflows before scale](./2026-05-15-seven-rules-for-governing-agentic-workflows-before-scale.md)
 
-This publication turns the academy concept into an actionable operating route.
+The first publication explained how an academy becomes AI-native without fake scale. The second turns that discipline outward and gives institutions a practical governance route for agentic workflows.
