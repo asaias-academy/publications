@@ -1,4 +1,8 @@
+![ASAIAS organization banner](https://raw.githubusercontent.com/asaias-academy/.github/main/profile/assets/organization-banner.png)
+
 # ASAIAS Publications
+
+![ASAIAS publication card system](https://raw.githubusercontent.com/asaias-academy/.github/main/visual-system/assets/cards/publication-card-template.png)
 
 Public publication layer for approved flagship texts and structured releases.
 
@@ -28,6 +32,10 @@ Host approved flagship publications for the academy's public analytical surface.
 ## Approval Gate
 
 Nothing public is final without human review and human approval.
+
+## Visual Surface
+
+This repository uses the shared ASAIAS visual layer from `asaias-academy/.github` to keep flagship releases aligned with the organization profile, repository covers and publication-card system.
 
 ## Published Flagship Publications
 
