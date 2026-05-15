@@ -34,5 +34,6 @@ Nothing public is final without human review and human approval.
 - [Five steps toward an AI-native academy](./2026-05-12-five-steps-toward-an-ai-native-academy.md)
 - [Seven rules for governing agentic workflows before scale](./2026-05-15-seven-rules-for-governing-agentic-workflows-before-scale.md)
 - [Six checks before you trust an agent workflow](./2026-05-15-six-checks-before-you-trust-an-agent-workflow.md)
+- [Four method moves for reading emerging AI orders](./2026-05-15-four-method-moves-for-reading-emerging-ai-orders.md)
 
-The first publication explained how an academy becomes AI-native without fake scale. The second gave institutions a governance route for agentic workflows. The third turns that route into a compact trust-readiness checklist.
+The first publication explained how an academy becomes AI-native without fake scale. The second gave institutions a governance route for agentic workflows. The third turned that route into a compact trust-readiness checklist. The fourth publishes the academy's analytical method itself.
