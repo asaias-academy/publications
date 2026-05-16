@@ -37,6 +37,17 @@ Nothing public is final without human review and human approval.
 
 This repository uses the shared ASAIAS visual layer from `asaias-academy/.github` to keep flagship releases aligned with the organization profile, repository covers and publication-card system.
 
+## Navigation Surface
+
+![ASAIAS navigation map](https://raw.githubusercontent.com/asaias-academy/.github/main/profile/assets/organization-navigation-map.png)
+
+- [Profile](https://github.com/asaias-academy/.github/tree/main/profile)
+- [Articles](https://github.com/asaias-academy/articles)
+- [Notes and essays](https://github.com/asaias-academy/notes-and-essays)
+- [Public research](https://github.com/asaias-academy/public-research)
+- [Publication registry](https://github.com/asaias-academy/publication-registry)
+- [Public archive](https://github.com/asaias-academy/public-archive)
+
 ## Published Flagship Publications
 
 - [Five steps toward an AI-native academy](./2026-05-12-five-steps-toward-an-ai-native-academy.md)
